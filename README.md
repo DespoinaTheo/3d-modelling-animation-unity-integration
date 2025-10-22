@@ -32,8 +32,8 @@ There are 3 choices while running the demo:
 - Whole animation scene display (both animations and their interaction) *(with key space)*
 
 ## Tech Stack
-**Engine:** Unity
-**Language:** C#
+**Engine:** Unity  
+**Language:** C#  
 **Tools:** Blender
 
 ## How to Run
