@@ -2,7 +2,7 @@
 An Animation Scene in Unity developed as part of an academic project for the course **Development of vector graphics(2D), models (3D) and Animation**.
 
 ## Project Overview
-Modelling and Animation were made in Blender.  
+Modelling and Animating were made in Blender.  
 
 ### First Animation: The Flower
 The animation depicts a flower dancing to the rythm of jazz music. Every part of flower's body (stem, flower, petals, leaves) participates in the dance.
