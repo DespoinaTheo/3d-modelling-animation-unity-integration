@@ -5,6 +5,7 @@ An Animation Scene in Unity developed as part of an academic project for the cou
 Modelling and Animating were made in Blender.  
 
 ### First Animation: The Flower
+[Κατέβασε το βίντεο demo.mp4](animation-vid/animation1.mp4)
 The animation depicts a flower dancing to the rythm of jazz music. Every part of flower's body (stem, flower, petals, leaves) participates in the dance.
 - **Frequency:** 25 fps
 - **Duration:** 300 frames, 12 sec 
@@ -14,6 +15,7 @@ The animation depicts a flower dancing to the rythm of jazz music. Every part of
 - Animation with Keyframes
 
 ### Second Animation: The Pensil Case
+[Κατέβασε το βίντεο demo.mp4](animation-vid/animation2.mp4)
 The model consists of individual objects: two pencils, a ruler and a marker  
 The animation depicts a pencil case reacting to an allergic episode, caused by the flower (the two animations interact on scene).
 - **Frequency:** 25 fps
