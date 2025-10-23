@@ -1,0 +1,636 @@
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Readme.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Readme.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scenes
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scenes.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scripts
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scripts.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\UniversalRenderPipelineGlobalSettings.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\UniversalRenderPipelineGlobalSettings.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\lamp.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\lamp.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\lamp2.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\lamp2.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\DemoScene
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\DemoScene.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Chair1.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Chair1.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\ambientCG_Metal041A_1K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\ambientCG_Metal041A_1K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.007.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.007.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.008.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.008.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Materials\Materiais.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Cadeira.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Cadeira.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal012_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal012_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Metalness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Metalness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Metal041A_1K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Plastic006_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair1\Textures\Plastic006_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Chair2.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Chair2.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Fabric042_1K-JPG.001.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Fabric042_1K-JPG.001.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Leather026_1K-JPG.002.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Leather026_1K-JPG.002.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Metal046B_1K-JPG.001.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Metal046B_1K-JPG.001.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Metal046B_1K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Metal046B_1K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Plastic006_1K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Materials\ambientCG_Plastic006_1K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Fabric042_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Fabric042_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Fabric042_1K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Fabric042_1K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Leather026_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Leather026_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Leather026_1K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Leather026_1K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Metal046B_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Metal046B_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Metal046B_1K_Metalness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Metal046B_1K_Metalness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Plastic006_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair2\Textures\Plastic006_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Chair3.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Chair3.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Fabric023_1K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Fabric023_1K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Leather027_2K-JPG.001.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Leather027_2K-JPG.001.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Leather027_2K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Leather027_2K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Metal041A_1K-JPG.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Materials\ambientCG_Metal041A_1K-JPG.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Fabric023_1K_BlackColor.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Fabric023_1K_BlackColor.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Fabric023_1K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Fabric023_1K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Leather027_2K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Leather027_2K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Leather027_2K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Leather027_2K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Color.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Color.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Metalness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Metalness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Roughness.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Chair3\Textures\Metal041A_1K_Roughness.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\DemoScene\Office Chair Pack Demo Scene.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\DemoScene\Office Chair Pack Demo Scene.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair1.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair1.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair2.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair2.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair3.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\Prefabs\Chair3.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\1.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\1.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\2.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\2.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\3.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\3.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\4.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\3d Objects\Office Chair Pack 1.0\PreviewImages\4.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_black.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_black.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_black_off.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_black_off.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_white.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_white.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_white_off.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Laptop_white_off.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Laptop.FBX
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Laptop.FBX.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_dark.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_dark.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_dark_off.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_dark_off.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_white.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_white.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_white_off.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Mesh\Materials\Laptop_white_off.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\diffuse_d.tga
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\diffuse_d.tga.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\diffuse_w.tga
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\diffuse_w.tga.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\e.tga
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\e.tga.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\normal.tga
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\normal.tga.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\specular.tga
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\3D_models\Laptop\Textures\specular.tga.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Animation1.controller
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Animation1.controller.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\animation1.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\animation1.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.001.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.001.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.002.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.002.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.004.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.004.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.005.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\Material.005.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\texture1.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\texture1.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\texture2.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation1\texture2.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Animation2.controller
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Animation2.controller.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\animation2.fbx
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\animation2.fbx.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\case_mat.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\case_mat.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\marker_mat.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\marker_mat.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.001.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.001.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.003.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.003.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.004.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.004.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.005 1.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.005 1.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.005.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\Material.005.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\pen1_material.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\pen1_material.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\pen2_material.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\pen2_material.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\ruler_mat.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Animation2\ruler_mat.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book1.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book1.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book2.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book2.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book3.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book3.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book4.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book4.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book5.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book5.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book6.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book6.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book7.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book7.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book8.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book8.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book9.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Book9.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Bookcase.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Bookcase.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Box.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Box.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Door.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Door.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Floor.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Floor.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Table.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Table.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Wall.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Wall.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\box.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\box.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\floor.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\floor.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\wood.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Materials\Images\wood.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scenes\MainScene.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scenes\MainScene.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scripts\AnimController.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Scripts\AnimController.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\SampleSceneProfile.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\SampleSceneProfile.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Balanced-Renderer.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Balanced-Renderer.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Balanced.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Balanced.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-HighFidelity-Renderer.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-HighFidelity-Renderer.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-HighFidelity.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-HighFidelity.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Performant-Renderer.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Performant-Renderer.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Performant.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Settings\URP-Performant.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds\animationSound.mp3
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds\animationSound.mp3.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds\jazzMusic.mp3
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\Sounds\jazzMusic.mp3.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Documentation
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Documentation.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton OFL.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Anton.ttf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers - OFL.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Bangers.ttf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Electronic Highway Sign.TTF.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold - OFL.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Oswald-Bold.ttf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Fonts\Roboto-Bold.ttf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Crate - Surface Shader Scene.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Logo Scene.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Ground - Surface Shader Scene.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Materials\Small Crate_diffuse.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\Text Popup.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 1.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Prefabs\TextMeshPro - Prefab 2.prefab.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Blue to Purple - Vertical.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green - Vertical.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Dark to Light Green - Vertical.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green - Vertical.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Light to Dark Green - Vertical.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Color Gradient Presets\Yellow to Orange - Vertical.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Drop Shadow.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Outline.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF - Sunny Days.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Drop Shadow.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF - Outline.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Glow.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF Logo.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Electronic Highway Sign SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic Green.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Metalic Green.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Overlay.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft Mask.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\LiberationSans SDF - Soft Mask.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Drop Shadow.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF - Surface.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\Default Sprite Asset.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Resources\Sprite Assets\DropCap Numbers.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\01-  Single Line TextMesh Pro.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\02 - Multi-line TextMesh Pro.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\03 - Line Justification.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\04 - Word Wrapping.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\05 - Style Tags.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\06 - Extra Rich Text Examples.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\07 - Superscript & Subscript Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\08 - Improved Text Alignment.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\09 - Margin Tag Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\10 - Bullets & Numbered List Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\11 - The Style Tag.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\12 - Link Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\12a - Text Interactions.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\13 - Soft Hyphenation.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\14 - Multi Font & Sprites.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\15 - Inline Graphics & Sprites.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\16 - Linked text overflow mode example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\17 - Old Computer Terminal.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\18 - ScrollRect & Masking & Layout.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\19 - Masking Texture & Soft Mask.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\20 - Input Field with Scrollbar.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\21 - Script Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\22 - Basic Scripting Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\23 - Animating Vertex Attributes.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\24 - Surface Shader Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\25 - Sunny Days Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\26 - Dropdown Placeholder Example.unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scenes\Benchmark (Floating Text).unity.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites\Default Sprites.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Sprites\DropCap Numbers.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Brushed Metal 3.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Floor Cement.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Floor Tiles 1 - diffuse.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Fruit Jelly (B&W).jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Diagonal (Color).jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Horizontal (Color).jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Gradient Vertical (Color).jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Mask Zig-n-Zag.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_diffuse.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Small Crate_normal.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Sunny Days - Seamless.jpg.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text Image 1.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Text Overflow - Linked Text UI Screenshot.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Circle.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Diagonal.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Double.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Examples & Extras\Textures\Wipe Pattern - Radial Quad.psd.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Sprite Assets
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Style Sheets
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Style Sheets.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\TMP Settings.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro.cginc
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne.json
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Icons
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Icons.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Layout.wlt
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Layout.wlt.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Icons\URP.png
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Icons\URP.png.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Editor
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Editor.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Readme.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Readme.cs.meta
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs
+C:\Users\junior\Documents\GitHub\3d-modelling-animation-unity-integration\Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs.meta
