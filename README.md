@@ -39,6 +39,6 @@ There are 3 choices while running the demo:
 **Tools:** Blender
 
 ## How to Run
-- Open the Project in Unity 2022.3.3f1
+- Open the Project in Unity 2022
 - The *Library* folder has been deleted to reduce the project size, so you need to select the *MainScene* from the *Scenes* folder.
 - Press A,B or space
